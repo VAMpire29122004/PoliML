@@ -1,0 +1,45 @@
+Monomer,Formula,Structure,Physical State,Molecular_Weight,Density,Boiling_Point,Reactivity_Ratio
+Styrene,C8H8,styrene.jpg,Liquid,104.15,0.91,146,0.5
+Methyl Methacrylate,C5H8O2,MMA.jpg,Liquid,100.12,0.94,101,0.8
+Acrylonitrile,C3H3N,acrylonitrile.jpg,Liquid,53.06,0.81,77,0.6
+Vinyl Acetate,C4H6O2,vinyl_acetate.jpg,Liquid,86.09,0.93,72,0.7
+Butadiene,C4H6,butadiene.jpg,Gas,54.09,0.64,-4,1.2
+Isoprene,C5H8,isoprene.jpg,Liquid,68.12,0.68,34,1.4
+Vinyl Chloride,C2H3Cl,vinyl_chloride.jpg,Gas,62.5,0.91,-13.4,0.9
+Ethylene,C2H4,ethylene.jpg,Gas,28.05,0.57,-104,1.1
+Propylene,C3H6,propylene.jpg,Gas,42.08,0.85,-47,1.2
+Tetrafluoroethylene,C2F4,tfe.jpg,Gas,100.02,4.1,-76,1.3
+Chloroprene,C4H5Cl,chloroprene.jpg,Liquid,88.54,0.96,59,0.9
+Methyl Acrylate,C4H6O2,methyl_acrylate.jpg,Liquid,86.09,0.95,80,0.85
+Ethyl Acrylate,C5H8O2,ethyl_acrylate.jpg,Liquid,100.12,0.92,99,0.88
+Hydroxyethyl Methacrylate,C6H10O3,hema.jpg,Liquid,130.14,1.07,230,0.7
+N-Vinylpyrrolidone,C6H9NO,nvp.jpg,Liquid,111.14,1.03,90,0.65
+Vinylidene Chloride,C2H2Cl2,vdc.jpg,Liquid,96.94,1.21,31.6,0.05
+Trifluoroethylene,C2H3F3,trife.jpg,Gas,78.04,1.24,-29,0.7
+Butyl Acrylate,C7H12O2,butyl_acrylate.jpg,Liquid,128.17,0.9,145,0.25
+Isobutyl Acrylate,C7H12O2,isobutyl_acrylate.jpg,Liquid,128.17,0.9,139,0.4
+Lauryl Acrylate,C14H26O2,lauryl_acrylate.jpg,Liquid,226.35,0.87,258,0.28
+Methacrylonitrile,C4H5N,methacrylonitrile.jpg,Liquid,67.09,0.82,100,0.15
+N-Isopropylacrylamide (NIPAAm),C6H11NO,nipaam.jpg,Solid,113.16,1.08,98,0.3
+Methyl Vinyl Ketone,C4H6O,methyl_vinyl_ketone.jpg,Liquid,70.09,0.83,81.4,0.2
+Hydroxypropyl Acrylate (HPA),C6H10O3,hpa.jpg,Liquid,130.14,1.05,100,0.55
+2-Ethylhexyl Acrylate,C11H20O2,ethylhexyl_acrylate.jpg,Liquid,184.28,0.87,210,0.2
+Dimethylaminoethyl Methacrylate (DMAEMA),C8H15NO2,dmaema.jpg,Liquid,157.21,0.94,177,0.5
+Vinyl Propionate,C5H8O2,vinyl_propionate.jpg,Liquid,100.12,0.91,99,0.15
+Allyl Alcohol,C3H6O,allyl_alcohol.jpg,Liquid,58.08,0.85,97,0.05
+Allyl Chloride,C3H5Cl,allyl_chloride.jpg,Liquid,76.52,0.94,46.4,0.1
+Allyl Methacrylate,C7H10O2,allyl_methacrylate.jpg,Liquid,126.16,0.98,88,0.25
+Diallyl Phthalate,C14H14O4,dap.jpg,Liquid,246.26,1.18,240,0.3
+Divinylbenzene (DVB),C10H10,dvb.jpg,Liquid,130.19,0.92,195,0.6
+Diallyl Maleate,C10H10O4,diallyl_maleate.jpg,Liquid,194.18,1.12,287,0.4
+Vinyl Toluene,C9H10,vinyl_toluene.jpg,Liquid,118.18,0.88,170,0.5
+Vinyl Pyridine,C7H7N,vinyl_pyridine.jpg,Liquid,105.14,0.99,144,0.4
+N-Vinyl Caprolactam,C10H15NO,nvc.jpg,Solid,165.23,1.12,112,0.6
+Methacryloxypropyltrimethoxysilane (MPS),C10H20O5Si,mps.jpg,Liquid,248.36,1.04,190,0.2
+Benzyl Methacrylate,C11H12O2,benzyl_methacrylate.jpg,Liquid,176.21,1.02,162,0.35
+Vinyl Ether,C4H8O,vinyl_ether.jpg,Gas,72.11,0.75,35,0.6
+Isodecyl Acrylate,C13H24O2,isodecyl_acrylate.jpg,Liquid,212.33,0.86,250,0.22
+Perfluoroalkyl Acrylate,C9H7F17O2,perfluoro_acrylate.jpg,Liquid,482.13,1.9,200,0.45
+Cyclohexyl Methacrylate,C10H16O2,chma.jpg,Liquid,168.24,0.98,223,0.42
+Dodecyl Methacrylate,C16H30O2,dma.jpg,Liquid,270.41,0.86,285,0.28
+"2,2,2-Trifluoroethyl Methacrylate",C6H7F3O2,tfema.jpg,Liquid,168.12,1.3,168,0.52

@@ -1,0 +1,37 @@
+Homopolymer,Monomer,Formula,Structure,Physical State,Molecular Weight (g/mol),Density (g/cm³),Tg (°C),Tm (°C),Crystallinity (%),MFI (g/10 min),Processing Techniques,Applications
+Polystyrene (PS),Styrene,(C8H8)n,polystyrene.jpg,Solid,"100,000–300,000",1.05,100,NaN,Amorphous (0%),2–25,"Injection Molding, Extrusion","Packaging, Electronics, Insulation"
+Poly(Methyl Methacrylate) (PMMA),Methyl Methacrylate,(C5H8O2)n,pmma.jpg,Solid,"80,000–150,000",1.18,105,160,Amorphous (0%),1–30,"Injection Molding, Casting","Optical Lenses, Displays"
+Polyacrylonitrile (PAN),Acrylonitrile,(C3H3N)n,pan.jpg,Solid,"40,000–70,000",1.17,95,NaN,20–40% (semi-crystalline),Not typically reported,"Wet Spinning, Melt Spinning","Fibers, Carbon Fiber Precursors"
+Poly(Vinyl Acetate) (PVAc),Vinyl Acetate,(C4H6O2)n,pva.jpg,Solid,"50,000–200,000",1.19,30,NaN,Amorphous (0%),1–30,Emulsion Polymerization,"Adhesives, Coatings"
+Polybutadiene (PBD),Butadiene,(C4H6)n,pbd.jpg,Solid,"100,000–500,000",0.91,-100,NaN,Amorphous (0%),Not applicable,Solution Polymerization,"Tires, Impact Modifiers"
+Polyisoprene (PI),Isoprene,(C5H8)n,pi.jpg,Solid,"50,000–200,000",0.92,-73,NaN,Amorphous (0%),Not applicable,Vulcanization,"Rubber, Medical Gloves"
+Poly(Vinyl Chloride) (PVC),Vinyl Chloride,(C2H3Cl)n,pvc.jpg,Solid,"40,000–150,000",1.38,81,NaN,10–20% (semi-crystalline),2–40,"Extrusion, Blow Molding","Pipes, Cables, Medical Devices"
+Polyethylene (PE),Ethylene,(C2H4)n,pe.jpg,Solid,"100,000–500,000",0.95,-120,125,Highly crystalline (40–90%),0.3–20,"Blow Molding, Extrusion","Packaging, Containers"
+Polypropylene (PP),Propylene,(C3H6)n,pp.jpg,Solid,"80,000–300,000",0.9,-10,160,Highly crystalline (50–70%),0.5–50,"Injection Molding, Fiber Spinning","Food Containers, Medical Syringes"
+Poly(Tetrafluoroethylene) (PTFE),Tetrafluoroethylene,(C2F4)n,ptfe.jpg,Solid,"500,000–1,000,000",2.2,117,327,High crystallinity (90–95%),Not applicable,"Compression Molding, Extrusion","Non-Stick Coatings, Seals"
+Polychloroprene (CR),Chloroprene,(C4H5Cl)n,pcr.jpg,Solid,"50,000–150,000",1.23,-40,NaN,Amorphous (0%),Limited data,Vulcanization,"Wetsuits, Gaskets"
+Poly(Methyl Acrylate) (PMA),Methyl Acrylate,(C4H6O2)n,pma.jpg,Solid,"50,000–100,000",1.1,10,NaN,Amorphous (0%),Varies widely,Solution Polymerization,"Coatings, Adhesives"
+Poly(Ethyl Acrylate) (PEA),Ethyl Acrylate,(C5H8O2)n,pea.jpg,Solid,"50,000–150,000",1.07,-25,NaN,Amorphous (0%),Varies widely,Emulsion Polymerization,"Impact Modifiers, Coatings"
+Poly(2-Hydroxyethyl Methacrylate) (PHEMA),2-Hydroxyethyl Methacrylate,(C6H10O3)n,phema.jpg,Solid,"40,000–120,000",1.15,55,NaN,Amorphous (0%),Limited data,Solution Polymerization,"Hydrogels, Contact Lenses"
+Poly(N-Vinylpyrrolidone) (PNVP),N-Vinylpyrrolidone,(C6H9NO)n,pnvp.jpg,Solid,"20,000–100,000",1.2,150,NaN,Amorphous (0%),Limited data,Solution Polymerization,"Pharmaceuticals, Cosmetics"
+Poly(Vinylidene Chloride) (PVDC),Vinylidene Chloride,(C2H2Cl2)n,pvdc.jpg,Solid,"80,000–250,000",1.7,-17,200,High (60–80%),Limited data,"Extrusion, Coating","Food Packaging, Barrier Films"
+Poly(Trifluoroethylene) (PTrFE),Trifluoroethylene,(C2HF3)n,ptrfe.jpg,Solid,"100,000–500,000",2.1,110,275,High (80–90%),Not applicable,Compression Molding,High-Performance Films
+Poly(Butyl Acrylate) (PBA),Butyl Acrylate,(C7H12O2)n,pba.jpg,Solid,"50,000–200,000",1.06,-54,NaN,Amorphous (0%),Limited Data,Emulsion Polymerization,"Impact Modifiers, Adhesives"
+Poly(Isobutyl Acrylate) (PIBA),Isobutyl Acrylate,(C7H12O2)n,piba.jpg,Solid,"50,000–200,000",1.05,-45,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Coatings, Adhesives"
+Poly(Lauryl Acrylate) (PLAcr),Lauryl Acrylate,(C15H28O2)n,placr.jpg,Solid,"50,000–200,000",0.98,-65,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Hydrophobic Coatings
+Poly(Methacrylonitrile) (PMAN),Methacrylonitrile,(C4H5N)n,pman.jpg,Solid,"50,000–200,000",1.16,110,NaN,20–40% (Semi-crystalline),Not Typically Reported,Solution Polymerization,Protective Coatings
+Poly(N-Isopropylacrylamide) (PNIPAAm),N-Isopropylacrylamide,(C6H11NO)n,pnipaam.jpg,Solid,"20,000–100,000",1.2,32,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Hydrogels, Biomedical Applications"
+Poly(Methyl Vinyl Ketone) (PMVK),Methyl Vinyl Ketone,(C4H6O)n,pmvk.jpg,Solid,"50,000–200,000",1.1,-30,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Coatings, Adhesives"
+Poly(Hydroxypropyl Acrylate) (PHPA),Hydroxypropyl Acrylate,(C6H10O3)n,phpa.jpg,Solid,"40,000–150,000",1.2,50,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Hydrogels, Adhesives"
+Poly(Ethylhexyl Acrylate) (PEHA),Ethylhexyl Acrylate,(C11H20O2)n,peha.jpg,Solid,"50,000–200,000",0.92,-60,NaN,Amorphous (0%),Limited Data,Emulsion Polymerization,Pressure-Sensitive Adhesives
+Poly(Dimethylaminoethyl Methacrylate) (PDMAEMA),Dimethylaminoethyl Methacrylate,(C8H15NO2)n,pdmaema.jpg,Solid,"40,000–200,000",1.15,55,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Drug Delivery, Antimicrobial Coatings"
+Poly(Vinyl Propionate) (PVPi),Vinyl Propionate,(C5H8O2)n,pvpi.jpg,Solid,"50,000–200,000",1.1,-20,NaN,Amorphous (0%),Limited Data,Emulsion Polymerization,"Adhesives, Binders"
+Poly(Allyl Alcohol) (PAA),Allyl Alcohol,(C3H6O)n,paa.jpg,Solid,"20,000–100,000",1.2,80,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Crosslinking Agent
+Poly(Allyl Methacrylate) (PAlMA),Allyl Methacrylate,(C7H10O2)n,palma.jpg,Solid,"50,000–200,000",1.05,-10,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Coatings, Hydrogels"
+Poly(Benzyl Methacrylate) (PBMA),Benzyl Methacrylate,(C11H12O2)n,pbma.jpg,Solid,"50,000–200,000",1.12,50,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Optical Coatings
+Poly(Fluorinated Vinyl Ether) (PFVE),Fluorinated Vinyl Ether,(C4H5FO)n,pfve.jpg,Solid,"100,000–500,000",1.9,-50,NaN,Amorphous (0%),Not Applicable,Solution Polymerization,Fluoropolymer Films
+Poly(Isodecyl Acrylate) (PIDA),Isodecyl Acrylate,(C13H24O2)n,pida.jpg,Solid,"50,000–200,000",0.91,-60,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Hydrophobic Coatings
+Poly(Perfluoro Acrylate) (PPFA),Perfluoro Acrylate,(C5H3FO2)n,ppfa.jpg,Solid,"100,000–500,000",2.2,-50,NaN,Amorphous (0%),Not Applicable,Solution Polymerization,Water-Repellent Coatings
+Poly(Cyclohexyl Methacrylate) (PCHMA),Cyclohexyl Methacrylate,(C10H16O2)n,pchma.jpg,Solid,"50,000–200,000",1.05,130,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Optical Materials
+Poly(Dimethyl Acrylamide) (PDMA),Dimethyl Acrylamide,(C5H9NO)n,pdma.jpg,Solid,"50,000–200,000",1.2,65,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Biomedical Applications
+Poly(Trifluoroethyl Methacrylate) (PTFEMA),Trifluoroethyl Methacrylate,(C6H9F3O2)n,ptfema.jpg,Solid,"50,000–200,000",1.5,75,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Hydrophobic Coatings

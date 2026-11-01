@@ -1,0 +1,26 @@
+Monomer,Monomer Type,Formula,Structure,Physical State,Molecular Weight (g/mol),Density (g/cm³),Melting Point (°C),Boiling Point (°C),Functional Groups
+Terephthalic Acid,Dicarboxylic Acid,C8H6O4,terephthalic_acid.jpg,Solid,166.13,1.52,300,Sublimes,-COOH
+Isophthalic Acid,Dicarboxylic Acid,C8H6O4,isophthalic_acid.jpg,Solid,166.13,1.54,345,Sublimes,-COOH
+Adipic Acid,Dicarboxylic Acid,C6H10O4,adipic_acid.jpg,Solid,146.14,1.36,152,337,-COOH
+Sebacic Acid,Dicarboxylic Acid,C10H18O4,sebacic_acid.jpg,Solid,202.25,1.21,132,295,-COOH
+Maleic Anhydride,Anhydride,C4H2O3,maleic_anhydride.jpg,Solid,98.06,1.48,52,202,-COO-
+Phthalic Anhydride,Anhydride,C8H4O3,phthalic_anhydride.jpg,Solid,148.12,1.53,130,295,-COO-
+Ethylene Glycol,Diol,C2H6O2,ethylene_glycol.jpg,Liquid,62.07,1.11,-12,197,-OH
+Propylene Glycol,Diol,C3H8O2,propylene_glycol.jpg,Liquid,76.09,1.04,-60,188,-OH
+Butanediol,Diol,C4H10O2,butanediol.jpg,Liquid,90.12,1.02,20,230,-OH
+Hexanediol,Diol,C6H14O2,hexanediol.jpg,Solid,118.18,0.96,42,250,-OH
+Bisphenol A,Diol,C15H16O2,bisphenol_a.jpg,Solid,228.29,1.2,158,250,-OH
+"1,3-Propanediol",Diol,C3H8O2,propanediol.jpg,Liquid,76.09,1.05,-27,214,-OH
+Ethylenediamine,Diamine,C2H8N2,ethylenediamine.jpg,Liquid,60.1,0.9,8,116,-NH2
+Hexamethylenediamine,Diamine,C6H16N2,hexamethylenediamine.jpg,Solid,116.21,0.84,40,204,-NH2
+Phenylenediamine,Diamine,C6H8N2,phenylenediamine.jpg,Solid,108.14,1.13,140,267,-NH2
+"Toluene-2,4-Diamine",Diamine,C7H10N2,toluene_diamine.jpg,Solid,122.17,1.08,98,300,-NH2
+Caprolactam,Lactam,C6H11NO,caprolactam.jpg,Solid,113.16,1.02,70,270,-C(O)-NH-
+"1,4-Dioxane",Ether,C4H8O2,dioxane.jpg,Liquid,88.11,1.03,11,101,-O-
+Formaldehyde,Aldehyde,CH2O,formaldehyde.jpg,Gas,30.03,0.815,-92,-19,-CHO
+Glutaraldehyde,Aldehyde,C5H8O2,glutaraldehyde.jpg,Liquid,100.12,1.06,-14,187,-CHO
+Methyl Methacrylate,Acrylate,C5H8O2,MMA.jpg,Liquid,100.12,0.94,-48,101,-C(O)O-
+Vinyl Acetate,Acrylate,C4H6O2,vinyl_acetate.jpg,Liquid,86.09,0.93,-93,72,-C(O)O-
+Acrylonitrile,Nitrile,C3H3N,acrylonitrile.jpg,Liquid,53.06,0.81,-83,77,-CN
+Methacrylonitrile,Nitrile,C4H5N,methacrylonitrile.jpg,Liquid,67.09,0.79,-47,98,-CN
+Ethyleneimine,Aziridine,C2H5N,ethyleneimine.jpg,Liquid,43.07,0.83,-75,55,-NH-

@@ -1,0 +1,26 @@
+Copolymer,Monomer A,Monomer B,Structure,Physical State,Density (g/cm³),Tg (°C),Tm (°C),Crystallinity (%),MFI (g/10 min),Processing Techniques,Applications
+Styrene-Acrylonitrile (SAN),Styrene,Acrylonitrile,san.jpg,Solid,1.08,110,NaN,Amorphous (0%),5–25,"Injection Molding, Extrusion","Automotive, Electronics"
+Acrylonitrile-Butadiene-Styrene (ABS),Acrylonitrile,Butadiene,abs.png,Solid,1.04,105,NaN,Amorphous (0%),1–40,Injection Molding,"Consumer Goods, Helmets"
+Styrene-Butadiene Rubber (SBR),Styrene,Butadiene,sbr.jpg,Solid,0.94,-50,NaN,Amorphous (0%),Not applicable (Mooney viscosity used),Emulsion Polymerization,"Tires, Footwear"
+Vinyl Acetate-Ethylene (EVA),Vinyl Acetate,Ethylene,eva.jpg,Solid,0.93,-30,NaN,10–40%,0.3–800,"Extrusion, Foam Processing","Footwear, Adhesives"
+Poly(Vinyl Chloride-Co-Vinyl Acetate) (PVC-Co-VA),Vinyl Chloride,Vinyl Acetate,pvc_co_pva.jpg,Solid,1.35,70,NaN,Amorphous (0%),2–30,"Extrusion, Blow Molding","Films, Pipes"
+Ethylene-Propylene Copolymer (EPM),Ethylene,Propylene,epm.jpg,Solid,0.86,-40,NaN,10–20%,Varies widely,"Extrusion, Vulcanization","Automotive, Seals"
+Ethylene-Tetrafluoroethylene (ETFE),Ethylene,Tetrafluoroethylene,etfe.jpg,Solid,1.7,120,270,40–60%,5–30,Compression Molding,"Chemical Lining, Solar Films"
+Poly(Chloroprene-Co-Isoprene),Chloroprene,Isoprene,pcip_co_ip.jpg,Solid,1.12,-30,NaN,Amorphous (0%),Limited data,Solution Polymerization,"Rubber Seals, Gaskets"
+Poly(Acrylonitrile-Co-Methyl Acrylate) (PAN-Co-MA),Acrylonitrile,Methyl Acrylate,pan_co_ma.jpg,Solid,1.11,90,NaN,20–40% (semi-crystalline),Not typically reported,Solution Polymerization,Textile Fibers
+Poly(Vinylpyrrolidone-Co-Methyl Methacrylate) (PVP-Co-MMA),N-Vinylpyrrolidone,Methyl Methacrylate,pvp_co_mma.jpg,Solid,1.14,120,NaN,Amorphous (0%),Limited data,Solution Polymerization,Medical Hydrogels
+Poly(Ethyl Acrylate-Co-Methyl Acrylate) (PEA-Co-MA),Ethyl Acrylate,Methyl Acrylate,pea_co_ma.jpg,Solid,1.05,10,NaN,Amorphous (0%),"Highly variable, typically low",Emulsion Polymerization,Impact Modifiers
+Poly(Butadiene-Co-Isoprene) (PBD-Co-IP),Butadiene,Isoprene,pbd_co_ip.jpg,Solid,0.89,-70,NaN,Amorphous (0%),Not applicable (Mooney viscosity used),Vulcanization,"Tires, Elastic Materials"
+Poly(Styrene-Co-Methyl Methacrylate) (PS-Co-MMA),Styrene,Methyl Methacrylate,ps_co_mma.jpg,Solid,1.02,100,NaN,Amorphous (0%),5–20,Injection Molding,"Optical Lenses, Packaging"
+Poly(Vinylidene Chloride-Co-Vinyl Chloride) (PVDC-Co-PVC),Vinylidene Chloride,Vinyl Chloride,pvdc_co_pvc.jpg,Solid,1.6,-10,200,High (60–80%),Limited Data,"Extrusion, Coating","Food Packaging, Barrier Films"
+Poly(Acrylonitrile-Co-Butyl Acrylate) (PAN-Co-BA),Acrylonitrile,Butyl Acrylate,pan_co_ba.jpg,Solid,1.1,85,NaN,20–40% (semi-crystalline),Not Reported,Solution Polymerization,"Fibers, Adhesives"
+Poly(Methyl Methacrylate-Co-Butyl Acrylate) (PMMA-Co-BA),Methyl Methacrylate,Butyl Acrylate,pmma_co_ba.jpg,Solid,1.12,50,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Impact-Resistant Plastics
+Poly(Ethylene-Co-Butyl Acrylate) (PE-Co-BA),Ethylene,Butyl Acrylate,pe_co_ba.jpg,Solid,0.93,-30,NaN,5–20%,Variable,Extrusion,"Film Packaging, Adhesives"
+Poly(Vinyl Acetate-Co-Acrylate) (PVAc-Co-BA),Vinyl Acetate,Butyl Acrylate,pvac_co_ba.jpg,Solid,1.05,-25,NaN,Amorphous (0%),Limited Data,Emulsion Polymerization,"Adhesives, Coatings"
+Poly(Methyl Vinyl Ketone-Co-Butyl Acrylate) (PMVK-Co-BA),Methyl Vinyl Ketone,Butyl Acrylate,pmvk_co_ba.jpg,Solid,1.08,-40,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Coatings, Adhesives"
+Poly(N-Isopropylacrylamide-Co-Methyl Acrylate) (PNIPAAm-Co-MA),N-Isopropylacrylamide,Methyl Acrylate,pnipaam_co_ma.jpg,Solid,1.15,25,NaN,Amorphous (0%),Limited Data,Solution Polymerization,"Hydrogels, Drug Delivery"
+Poly(Vinylidene Fluoride-Co-Trifluoroethylene) (PVDF-Co-TrFE),Vinylidene Fluoride,Trifluoroethylene,pvdf_co_trfe.jpg,Solid,1.8,-20,170,High (50–80%),Limited Data,Solution Polymerization,Piezoelectric Films
+Poly(Ethylhexyl Acrylate-Co-Methyl Acrylate) (PEHA-Co-MA),Ethylhexyl Acrylate,Methyl Acrylate,peha_co_ma.jpg,Solid,0.95,-50,NaN,Amorphous (0%),Limited Data,Emulsion Polymerization,Pressure-Sensitive Adhesives
+Poly(Styrene-Co-Vinyl Toluene) (PS-Co-VT),Styrene,Vinyl Toluene,ps_co_vt.jpg,Solid,1.04,100,NaN,Amorphous (0%),5–20,Injection Molding,Thermoplastics
+Poly(Trifluoroethyl Methacrylate-Co-Methyl Methacrylate) (PTFEMA-Co-MMA),Trifluoroethyl Methacrylate,Methyl Methacrylate,ptfema_co_mma.jpg,Solid,1.3,80,NaN,Amorphous (0%),Limited Data,Solution Polymerization,Optical Materials
+Poly(Styrene-Co-Trifluoroethyl Methacrylate) (PS-Co-PTFEMA),Styrene,Trifluoroethyl Methacrylate,ps_co_ptfema.jpg,Solid,1.1,110,NaN,Amorphous (0%),Limited Data,Solution Polymerization,High-Performance Plastics
