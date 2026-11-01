@@ -1,0 +1,72 @@
+kind,name,smiles,psmiles,structure_note
+chain,Styrene,C=CC1=CC=CC=C1,*CC(*)C1=CC=CC=C1,
+chain,Methyl Methacrylate,C=C(C)C(=O)OC,*CC(C)(*)C(=O)OC,
+chain,Acrylonitrile,C=CC#N,*CC(*)C#N,
+chain,Vinyl Acetate,C=COC(C)=O,*CC(*)OC(C)=O,
+chain,Butadiene,C=CC=C,*CC=CC*,Repeat unit drawn as 1 4-addition; microstructure (cis/trans/1 2) not specified
+chain,Isoprene,C=CC(C)=C,*CC(C)=CC*,Repeat unit drawn as 1 4-addition; microstructure not specified
+chain,Vinyl Chloride,C=CCl,*CC(*)Cl,
+chain,Ethylene,C=C,*CC*,
+chain,Propylene,C=CC,*CC(*)C,Tacticity not specified
+chain,Tetrafluoroethylene,FC(F)=C(F)F,*C(F)(F)C(F)(F)*,
+chain,Chloroprene,C=CC(Cl)=C,*CC(Cl)=CC*,Repeat unit drawn as 1 4-addition; microstructure not specified
+chain,Methyl Acrylate,C=CC(=O)OC,*CC(*)C(=O)OC,
+chain,Ethyl Acrylate,C=CC(=O)OCC,*CC(*)C(=O)OCC,
+chain,Hydroxyethyl Methacrylate,C=C(C)C(=O)OCCO,*CC(C)(*)C(=O)OCCO,
+chain,N-Vinylpyrrolidone,C=CN1CCCC1=O,*CC(*)N1CCCC1=O,
+chain,Vinylidene Chloride,C=C(Cl)Cl,*CC(Cl)(Cl)*,
+chain,Trifluoroethylene,FC=C(F)F,*C(F)C(F)(F)*,
+chain,Butyl Acrylate,C=CC(=O)OCCCC,*CC(*)C(=O)OCCCC,n-butyl assumed
+chain,Isobutyl Acrylate,C=CC(=O)OCC(C)C,*CC(*)C(=O)OCC(C)C,
+chain,Lauryl Acrylate,C=CC(=O)OCCCCCCCCCCCC,*CC(*)C(=O)OCCCCCCCCCCCC,Dodecyl ester assumed
+chain,Methacrylonitrile,C=C(C)C#N,*CC(C)(*)C#N,
+chain,N-Isopropylacrylamide,C=CC(=O)NC(C)C,*CC(*)C(=O)NC(C)C,
+chain,Methyl Vinyl Ketone,C=CC(C)=O,*CC(*)C(C)=O,
+chain,Hydroxypropyl Acrylate,C=CC(=O)OCC(C)O,*CC(*)C(=O)OCC(C)O,2-hydroxypropyl isomer assumed (isomer mixture is common)
+chain,2-Ethylhexyl Acrylate,C=CC(=O)OCC(CC)CCCC,*CC(*)C(=O)OCC(CC)CCCC,
+chain,Dimethylaminoethyl Methacrylate,C=C(C)C(=O)OCCN(C)C,*CC(C)(*)C(=O)OCCN(C)C,
+chain,Vinyl Propionate,C=COC(=O)CC,*CC(*)OC(=O)CC,
+chain,Allyl Alcohol,C=CCO,*CC(*)CO,Allyl monomers polymerize poorly by free radicals (degradative chain transfer)
+chain,Allyl Chloride,C=CCCl,*CC(*)CCl,Allyl monomers polymerize poorly by free radicals (degradative chain transfer)
+chain,Allyl Methacrylate,C=C(C)C(=O)OCC=C,*CC(C)(*)C(=O)OCC=C,Bifunctional; repeat unit assumes only the methacrylate group reacts (pendant allyl)
+chain,Diallyl Phthalate,C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C,,Crosslinker / network former: no single repeat unit
+chain,Divinylbenzene,C=CC1=CC=C(C=C)C=C1,,Crosslinker / network former: no single repeat unit; para isomer drawn
+chain,Diallyl Maleate,C=CCOC(=O)C=CC(=O)OCC=C,,Crosslinker / network former: no single repeat unit
+chain,Vinyl Toluene,C=CC1=CC=CC(C)=C1,*CC(*)C1=CC=CC(C)=C1,meta isomer drawn; commercial vinyl toluene is a meta/para mixture
+chain,Vinyl Pyridine,C=CC1=CC=CC=N1,*CC(*)C1=CC=CC=N1,2-vinylpyridine drawn; isomer not specified in source
+chain,N-Vinyl Caprolactam,C=CN1CCCCCC1=O,*CC(*)N1CCCCCC1=O,
+chain,Methacryloxypropyltrimethoxysilane,C=C(C)C(=O)OCCC[Si](OC)(OC)OC,*CC(C)(*)C(=O)OCCC[Si](OC)(OC)OC,
+chain,Benzyl Methacrylate,C=C(C)C(=O)OCC1=CC=CC=C1,*CC(C)(*)C(=O)OCC1=CC=CC=C1,
+chain,Vinyl Ether,C=COCC,*CC(*)OCC,Name is ambiguous; structure drawn as ethyl vinyl ether because it matches the listed formula and MW
+chain,Isodecyl Acrylate,C=CC(=O)OCCCCCCCC(C)C,*CC(*)C(=O)OCCCCCCCC(C)C,Isodecyl is a branched-isomer mixture; 8-methylnonyl drawn
+chain,Perfluoroalkyl Acrylate,,,Generic name: chain length not specified so no structure assigned
+chain,Cyclohexyl Methacrylate,C=C(C)C(=O)OC1CCCCC1,*CC(C)(*)C(=O)OC1CCCCC1,
+chain,Dodecyl Methacrylate,C=C(C)C(=O)OCCCCCCCCCCCC,*CC(C)(*)C(=O)OCCCCCCCCCCCC,
+chain,"2,2,2-Trifluoroethyl Methacrylate",C=C(C)C(=O)OCC(F)(F)F,*CC(C)(*)C(=O)OCC(F)(F)F,
+chain,Vinylidene Fluoride,C=C(F)F,*CC(F)(F)*,Added because the copolymer table references it; not in the original monomer table
+chain,"N,N-Dimethylacrylamide",C=CC(=O)N(C)C,*CC(*)C(=O)N(C)C,Added because the homopolymer table references it; not in the original monomer table
+step,Terephthalic Acid,OC(=O)C1=CC=C(C=C1)C(=O)O,,
+step,Isophthalic Acid,OC(=O)C1=CC(=CC=C1)C(=O)O,,
+step,Adipic Acid,OC(=O)CCCCC(=O)O,,
+step,Sebacic Acid,OC(=O)CCCCCCCCC(=O)O,,
+step,Maleic Anhydride,O=C1C=CC(=O)O1,,
+step,Phthalic Anhydride,O=C1OC(=O)C2=CC=CC=C12,,
+step,Ethylene Glycol,OCCO,,
+step,Propylene Glycol,CC(O)CO,,1 2-propanediol assumed
+step,Butanediol,OCCCCO,,1 4-butanediol assumed
+step,Hexanediol,OCCCCCCO,,1 6-hexanediol assumed
+step,Bisphenol A,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,,
+step,"1,3-Propanediol",OCCCO,,
+step,Ethylenediamine,NCCN,,
+step,Hexamethylenediamine,NCCCCCCN,,
+step,Phenylenediamine,NC1=CC=C(N)C=C1,,para isomer drawn; isomer not specified in source
+step,"Toluene-2,4-Diamine",CC1=CC=C(N)C=C1N,,
+step,Caprolactam,O=C1CCCCCN1,,
+step,"1,4-Dioxane",C1COCCO1,,
+step,Formaldehyde,C=O,,
+step,Glutaraldehyde,O=CCCCC=O,,
+step,Methyl Methacrylate,C=C(C)C(=O)OC,,
+step,Vinyl Acetate,C=COC(C)=O,,
+step,Acrylonitrile,C=CC#N,,
+step,Methacrylonitrile,C=C(C)C#N,,
+step,Ethyleneimine,C1CN1,,
