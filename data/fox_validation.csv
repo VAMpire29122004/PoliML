@@ -1,0 +1,26 @@
+copolymer_id,name,monomer_a_id,monomer_b_id,tg_a_c,tg_b_c,tg_reported_c,tg_lower_c,tg_upper_c,within_homopolymer_bounds,deviation_outside_bounds_c,implied_weight_fraction_a,weight_fraction_a,fox_tg_c,fox_error_c,status,comment
+san,Styrene-Acrylonitrile,styrene,acrylonitrile,100,95,110,95,100,False,10,2.922,,,,inconsistent,reported Tg outside the range of the homopolymer Tgs
+abs,Acrylonitrile-Butadiene-Styrene,acrylonitrile,butadiene,95,-100,105,-100,95,False,10,1.023,,,,inconsistent,reported Tg outside the range of the homopolymer Tgs
+sbr,Styrene-Butadiene Rubber,styrene,butadiene,100,-100,-50,-100,100,True,0,0.418,,,,consistent,
+eva,Vinyl Acetate-Ethylene,vinyl_acetate,ethylene,30,-120,-30,-120,30,True,0,0.7481,,,,consistent,
+pvc_co_va,Poly(Vinyl Chloride-Co-Vinyl Acetate),vinyl_chloride,vinyl_acetate,81,30,70,30,81,True,0,0.8095,,,,consistent,
+epm,Ethylene-Propylene Copolymer,ethylene,propylene,-120,-10,-40,-120,-10,True,0,0.1791,,,,consistent,
+etfe,Ethylene-Tetrafluoroethylene,ethylene,tetrafluoroethylene,-120,117,120,-120,117,False,3,-0.004931,,,,inconsistent,reported Tg outside the range of the homopolymer Tgs
+poly_chloroprene_co_isoprene,Poly(Chloroprene-Co-Isoprene),chloroprene,isoprene,-40,-73,-30,-73,-40,False,10,1.249,,,,inconsistent,reported Tg outside the range of the homopolymer Tgs
+pan_co_ma,Poly(Acrylonitrile-Co-Methyl Acrylate),acrylonitrile,methyl_acrylate,95,10,90,10,95,True,0,0.9541,,,,consistent,
+pvp_co_mma,Poly(Vinylpyrrolidone-Co-Methyl Methacrylate),n_vinylpyrrolidone,methyl_methacrylate,150,105,120,105,150,True,0,0.3588,,,,consistent,
+pea_co_ma,Poly(Ethyl Acrylate-Co-Methyl Acrylate),ethyl_acrylate,methyl_acrylate,-25,10,10,-25,10,True,0,0,,,,consistent,
+pbd_co_ip,Poly(Butadiene-Co-Isoprene),butadiene,isoprene,-100,-73,-70,-100,-73,False,3,-0.0947,,,,inconsistent,reported Tg outside the range of the homopolymer Tgs
+ps_co_mma,Poly(Styrene-Co-Methyl Methacrylate),styrene,methyl_methacrylate,100,105,100,100,105,True,0,1,,,,consistent,
+pvdc_co_pvc,Poly(Vinylidene Chloride-Co-Vinyl Chloride),vinylidene_chloride,vinyl_chloride,-17,81,-10,-17,81,True,0,0.9039,,,,consistent,
+pan_co_ba,Poly(Acrylonitrile-Co-Butyl Acrylate),acrylonitrile,butyl_acrylate,95,-54,85,-54,95,True,0,0.9589,,,,consistent,
+pmma_co_ba,Poly(Methyl Methacrylate-Co-Butyl Acrylate),methyl_methacrylate,butyl_acrylate,105,-54,50,-54,105,True,0,0.7654,,,,consistent,
+pe_co_ba,Poly(Ethylene-Co-Butyl Acrylate),ethylene,butyl_acrylate,-120,-54,-30,-120,-54,False,24,-0.229,,,,inconsistent,reported Tg outside the range of the homopolymer Tgs
+pvac_co_ba,Poly(Vinyl Acetate-Co-Acrylate),vinyl_acetate,butyl_acrylate,30,-54,-25,-54,30,True,0,0.4218,,,,consistent,
+pmvk_co_ba,Poly(Methyl Vinyl Ketone-Co-Butyl Acrylate),methyl_vinyl_ketone,butyl_acrylate,-30,-54,-40,-54,-30,True,0,0.6084,,,,consistent,
+pnipaam_co_ma,Poly(N-Isopropylacrylamide-Co-Methyl Acrylate),n_isopropylacrylamide,methyl_acrylate,32,10,25,10,32,True,0,0.6978,,,,consistent,
+pvdf_co_trfe,Poly(Vinylidene Fluoride-Co-Trifluoroethylene),vinylidene_fluoride,trifluoroethylene,,110,-20,,,,,,,,,not_testable,no homopolymer Tg for: vinylidene_fluoride
+peha_co_ma,Poly(Ethylhexyl Acrylate-Co-Methyl Acrylate),2_ethylhexyl_acrylate,methyl_acrylate,-60,10,-50,-60,10,True,0,0.8187,,,,consistent,
+ps_co_vt,Poly(Styrene-Co-Vinyl Toluene),styrene,vinyl_toluene,100,,100,,,,,,,,,not_testable,no homopolymer Tg for: vinyl_toluene
+ptfema_co_mma,Poly(Trifluoroethyl Methacrylate-Co-Methyl Methacrylate),trifluoroethyl_methacrylate,methyl_methacrylate,75,105,80,75,105,True,0,0.8215,,,,consistent,
+ps_co_ptfema,Poly(Styrene-Co-Trifluoroethyl Methacrylate),styrene,trifluoroethyl_methacrylate,100,75,110,75,100,False,10,1.363,,,,inconsistent,reported Tg outside the range of the homopolymer Tgs
