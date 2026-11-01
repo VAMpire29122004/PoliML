@@ -1,0 +1,26 @@
+monomer_id,name,monomer_type,smiles,formula_listed,formula_from_smiles,mw_listed,mw_from_smiles,physical_state,density_g_cm3,melting_point_c,boiling_point_c,boiling_point_note,functional_groups,also_in_chain_growth_table,image_file,review_flags
+terephthalic_acid,Terephthalic Acid,Dicarboxylic Acid,OC(=O)C1=CC=C(C=C1)C(=O)O,C8H6O4,C8H6O4,166.13,166.13,Solid,1.52,300,,sublimes,-COOH,,terephthalic_acid.jpg,
+isophthalic_acid,Isophthalic Acid,Dicarboxylic Acid,OC(=O)C1=CC(=CC=C1)C(=O)O,C8H6O4,C8H6O4,166.13,166.13,Solid,1.54,345,,sublimes,-COOH,,isophthalic_acid.jpg,
+adipic_acid,Adipic Acid,Dicarboxylic Acid,OC(=O)CCCCC(=O)O,C6H10O4,C6H10O4,146.14,146.14,Solid,1.36,152,337,,-COOH,,adipic_acid.jpg,
+sebacic_acid,Sebacic Acid,Dicarboxylic Acid,OC(=O)CCCCCCCCC(=O)O,C10H18O4,C10H18O4,202.25,202.25,Solid,1.21,132,295,,-COOH,,sebacic_acid.jpg,
+maleic_anhydride,Maleic Anhydride,Anhydride,O=C1C=CC(=O)O1,C4H2O3,C4H2O3,98.06,98.06,Solid,1.48,52,202,,-COO-,,maleic_anhydride.jpg,
+phthalic_anhydride,Phthalic Anhydride,Anhydride,O=C1OC(=O)C2=CC=CC=C12,C8H4O3,C8H4O3,148.12,148.12,Solid,1.53,130,295,,-COO-,,phthalic_anhydride.jpg,
+ethylene_glycol,Ethylene Glycol,Diol,OCCO,C2H6O2,C2H6O2,62.07,62.07,Liquid,1.11,-12,197,,-OH,,ethylene_glycol.jpg,
+propylene_glycol,Propylene Glycol,Diol,CC(O)CO,C3H8O2,C3H8O2,76.09,76.09,Liquid,1.04,-60,188,,-OH,,propylene_glycol.jpg,structure: 1 2-propanediol assumed
+butanediol,Butanediol,Diol,OCCCCO,C4H10O2,C4H10O2,90.12,90.12,Liquid,1.02,20,230,,-OH,,butanediol.jpg,structure: 1 4-butanediol assumed
+hexanediol,Hexanediol,Diol,OCCCCCCO,C6H14O2,C6H14O2,118.18,118.18,Solid,0.96,42,250,,-OH,,hexanediol.jpg,structure: 1 6-hexanediol assumed
+bisphenol_a,Bisphenol A,Diol,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,C15H16O2,C15H16O2,228.29,228.29,Solid,1.2,158,250,,-OH,,bisphenol_a.jpg,
+1_3_propanediol,"1,3-Propanediol",Diol,OCCCO,C3H8O2,C3H8O2,76.09,76.09,Liquid,1.05,-27,214,,-OH,,propanediol.jpg,
+ethylenediamine,Ethylenediamine,Diamine,NCCN,C2H8N2,C2H8N2,60.1,60.1,Liquid,0.9,8,116,,-NH2,,ethylenediamine.jpg,
+hexamethylenediamine,Hexamethylenediamine,Diamine,NCCCCCCN,C6H16N2,C6H16N2,116.21,116.21,Solid,0.84,40,204,,-NH2,,hexamethylenediamine.jpg,
+phenylenediamine,Phenylenediamine,Diamine,NC1=CC=C(N)C=C1,C6H8N2,C6H8N2,108.14,108.14,Solid,1.13,140,267,,-NH2,,phenylenediamine.jpg,structure: para isomer drawn; isomer not specified in source
+toluene_2_4_diamine,"Toluene-2,4-Diamine",Diamine,CC1=CC=C(N)C=C1N,C7H10N2,C7H10N2,122.17,122.17,Solid,1.08,98,300,,-NH2,,toluene_diamine.jpg,
+caprolactam,Caprolactam,Lactam,O=C1CCCCCN1,C6H11NO,C6H11NO,113.16,113.16,Solid,1.02,70,270,,-C(O)-NH-,,caprolactam.jpg,"polymerizes by ring-opening (nylon 6), not classic step-growth"
+1_4_dioxane,"1,4-Dioxane",Ether,C1COCCO1,C4H8O2,C4H8O2,88.11,88.11,Liquid,1.03,11,101,,-O-,,dioxane.jpg,"a solvent, not a polymerizable monomer"
+formaldehyde,Formaldehyde,Aldehyde,C=O,CH2O,CH2O,30.03,30.03,Gas,0.815,-92,-19,,-CHO,,formaldehyde.jpg,functional group is -CH=O (aldehyde); listed as -CHO
+glutaraldehyde,Glutaraldehyde,Aldehyde,O=CCCCC=O,C5H8O2,C5H8O2,100.12,100.12,Liquid,1.06,-14,187,,-CHO,,glutaraldehyde.jpg,
+methyl_methacrylate,Methyl Methacrylate,Acrylate,C=C(C)C(=O)OC,C5H8O2,C5H8O2,100.12,100.12,Liquid,0.94,-48,101,,-C(O)O-,methyl_methacrylate,MMA.jpg,"chain-growth (vinyl) monomer, not a step-growth monomer"
+vinyl_acetate,Vinyl Acetate,Acrylate,C=COC(C)=O,C4H6O2,C4H6O2,86.09,86.09,Liquid,0.93,-93,72,,-C(O)O-,vinyl_acetate,vinyl_acetate.jpg,"chain-growth (vinyl) monomer, not a step-growth monomer"
+acrylonitrile,Acrylonitrile,Nitrile,C=CC#N,C3H3N,C3H3N,53.06,53.06,Liquid,0.81,-83,77,,-CN,acrylonitrile,acrylonitrile.jpg,"chain-growth (vinyl) monomer, not a step-growth monomer"
+methacrylonitrile,Methacrylonitrile,Nitrile,C=C(C)C#N,C4H5N,C4H5N,67.09,67.09,Liquid,0.79,-47,98,,-CN,methacrylonitrile,methacrylonitrile.jpg,"chain-growth (vinyl) monomer, not a step-growth monomer"
+ethyleneimine,Ethyleneimine,Aziridine,C1CN1,C2H5N,C2H5N,43.07,43.07,Liquid,0.83,-75,55,,-NH-,,ethyleneimine.jpg,"polymerizes by ring-opening (chain-type), not classic step-growth"

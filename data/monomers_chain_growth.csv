@@ -1,0 +1,47 @@
+monomer_id,name,abbreviation,polymerization_type,smiles,psmiles,formula_listed,formula_from_smiles,mw_listed,mw_from_smiles,physical_state,density_g_cm3,boiling_point_c,reactivity_ratio_legacy,image_file,data_origin,review_flags
+styrene,Styrene,,chain_growth,C=CC1=CC=CC=C1,*CC(*)C1=CC=CC=C1,C8H8,C8H8,104.15,104.15,Liquid,0.91,146,0.5,styrene.jpg,user,
+methyl_methacrylate,Methyl Methacrylate,,chain_growth,C=C(C)C(=O)OC,*CC(C)(*)C(=O)OC,C5H8O2,C5H8O2,100.12,100.12,Liquid,0.94,101,0.8,MMA.jpg,user,
+acrylonitrile,Acrylonitrile,,chain_growth,C=CC#N,*CC(*)C#N,C3H3N,C3H3N,53.06,53.06,Liquid,0.81,77,0.6,acrylonitrile.jpg,user,
+vinyl_acetate,Vinyl Acetate,,chain_growth,C=COC(C)=O,*CC(*)OC(C)=O,C4H6O2,C4H6O2,86.09,86.09,Liquid,0.93,72,0.7,vinyl_acetate.jpg,user,
+butadiene,Butadiene,,chain_growth,C=CC=C,*CC=CC*,C4H6,C4H6,54.09,54.09,Gas,0.64,-4,1.2,butadiene.jpg,user,density of a gaseous monomer: measurement condition unspecified | structure: Repeat unit drawn as 1 4-addition; microstructure (cis/trans/1 2) not specified
+isoprene,Isoprene,,chain_growth,C=CC(C)=C,*CC(C)=CC*,C5H8,C5H8,68.12,68.12,Liquid,0.68,34,1.4,isoprene.jpg,user,structure: Repeat unit drawn as 1 4-addition; microstructure not specified
+vinyl_chloride,Vinyl Chloride,,chain_growth,C=CCl,*CC(*)Cl,C2H3Cl,C2H3Cl,62.5,62.5,Gas,0.91,-13.4,0.9,vinyl_chloride.jpg,user,density of a gaseous monomer: measurement condition unspecified
+ethylene,Ethylene,,chain_growth,C=C,*CC*,C2H4,C2H4,28.05,28.05,Gas,0.57,-104,1.1,ethylene.jpg,user,density 0.57 looks like liquid at the boiling point; condition unspecified
+propylene,Propylene,,chain_growth,C=CC,*CC(*)C,C3H6,C3H6,42.08,42.08,Gas,0.85,-47,1.2,propylene.jpg,user,density of a gaseous monomer: measurement condition unspecified | structure: Tacticity not specified
+tetrafluoroethylene,Tetrafluoroethylene,,chain_growth,FC(F)=C(F)F,*C(F)(F)C(F)(F)*,C2F4,C2F4,100.02,100.01,Gas,4.1,-76,1.3,tfe.jpg,user,density 4.1 looks like a gas density in g/L; other rows are g/cm3 (liquid TFE is about 1.5 g/cm3 - verify)
+chloroprene,Chloroprene,,chain_growth,C=CC(Cl)=C,*CC(Cl)=CC*,C4H5Cl,C4H5Cl,88.54,88.53,Liquid,0.96,59,0.9,chloroprene.jpg,user,structure: Repeat unit drawn as 1 4-addition; microstructure not specified
+methyl_acrylate,Methyl Acrylate,,chain_growth,C=CC(=O)OC,*CC(*)C(=O)OC,C4H6O2,C4H6O2,86.09,86.09,Liquid,0.95,80,0.85,methyl_acrylate.jpg,user,
+ethyl_acrylate,Ethyl Acrylate,,chain_growth,C=CC(=O)OCC,*CC(*)C(=O)OCC,C5H8O2,C5H8O2,100.12,100.12,Liquid,0.92,99,0.88,ethyl_acrylate.jpg,user,
+hydroxyethyl_methacrylate,Hydroxyethyl Methacrylate,,chain_growth,C=C(C)C(=O)OCCO,*CC(C)(*)C(=O)OCCO,C6H10O3,C6H10O3,130.14,130.14,Liquid,1.07,230,0.7,hema.jpg,user,
+n_vinylpyrrolidone,N-Vinylpyrrolidone,,chain_growth,C=CN1CCCC1=O,*CC(*)N1CCCC1=O,C6H9NO,C6H9NO,111.14,111.14,Liquid,1.03,90,0.65,nvp.jpg,user,boiling point 90 C is probably quoted at reduced pressure (verify)
+vinylidene_chloride,Vinylidene Chloride,,chain_growth,C=C(Cl)Cl,*CC(Cl)(Cl)*,C2H2Cl2,C2H2Cl2,96.94,96.94,Liquid,1.21,31.6,0.05,vdc.jpg,user,
+trifluoroethylene,Trifluoroethylene,,chain_growth,FC=C(F)F,*C(F)C(F)(F)*,C2H3F3,C2HF3,78.04,82.02,Gas,1.24,-29,0.7,trife.jpg,user,"listed formula/MW (C2H3F3, 78.04) do not match structure (C2HF3, 82.02) | density of a gaseous monomer: measurement condition unspecified"
+butyl_acrylate,Butyl Acrylate,,chain_growth,C=CC(=O)OCCCC,*CC(*)C(=O)OCCCC,C7H12O2,C7H12O2,128.17,128.17,Liquid,0.9,145,0.25,butyl_acrylate.jpg,user,structure: n-butyl assumed
+isobutyl_acrylate,Isobutyl Acrylate,,chain_growth,C=CC(=O)OCC(C)C,*CC(*)C(=O)OCC(C)C,C7H12O2,C7H12O2,128.17,128.17,Liquid,0.9,139,0.4,isobutyl_acrylate.jpg,user,
+lauryl_acrylate,Lauryl Acrylate,,chain_growth,C=CC(=O)OCCCCCCCCCCCC,*CC(*)C(=O)OCCCCCCCCCCCC,C14H26O2,C15H28O2,226.35,240.39,Liquid,0.87,258,0.28,lauryl_acrylate.jpg,user,"listed formula/MW (C14H26O2, 226.35) do not match structure (C15H28O2, 240.39) | structure: Dodecyl ester assumed"
+methacrylonitrile,Methacrylonitrile,,chain_growth,C=C(C)C#N,*CC(C)(*)C#N,C4H5N,C4H5N,67.09,67.09,Liquid,0.82,100,0.15,methacrylonitrile.jpg,user,
+n_isopropylacrylamide,N-Isopropylacrylamide,NIPAAm,chain_growth,C=CC(=O)NC(C)C,*CC(*)C(=O)NC(C)C,C6H11NO,C6H11NO,113.16,113.16,Solid,1.08,98,0.3,nipaam.jpg,user,
+methyl_vinyl_ketone,Methyl Vinyl Ketone,,chain_growth,C=CC(C)=O,*CC(*)C(C)=O,C4H6O,C4H6O,70.09,70.09,Liquid,0.83,81.4,0.2,methyl_vinyl_ketone.jpg,user,
+hydroxypropyl_acrylate,Hydroxypropyl Acrylate,HPA,chain_growth,C=CC(=O)OCC(C)O,*CC(*)C(=O)OCC(C)O,C6H10O3,C6H10O3,130.14,130.14,Liquid,1.05,100,0.55,hpa.jpg,user,structure: 2-hydroxypropyl isomer assumed (isomer mixture is common)
+2_ethylhexyl_acrylate,2-Ethylhexyl Acrylate,,chain_growth,C=CC(=O)OCC(CC)CCCC,*CC(*)C(=O)OCC(CC)CCCC,C11H20O2,C11H20O2,184.28,184.28,Liquid,0.87,210,0.2,ethylhexyl_acrylate.jpg,user,
+dimethylaminoethyl_methacrylate,Dimethylaminoethyl Methacrylate,DMAEMA,chain_growth,C=C(C)C(=O)OCCN(C)C,*CC(C)(*)C(=O)OCCN(C)C,C8H15NO2,C8H15NO2,157.21,157.21,Liquid,0.94,177,0.5,dmaema.jpg,user,
+vinyl_propionate,Vinyl Propionate,,chain_growth,C=COC(=O)CC,*CC(*)OC(=O)CC,C5H8O2,C5H8O2,100.12,100.12,Liquid,0.91,99,0.15,vinyl_propionate.jpg,user,
+allyl_alcohol,Allyl Alcohol,,chain_growth,C=CCO,*CC(*)CO,C3H6O,C3H6O,58.08,58.08,Liquid,0.85,97,0.05,allyl_alcohol.jpg,user,structure: Allyl monomers polymerize poorly by free radicals (degradative chain transfer)
+allyl_chloride,Allyl Chloride,,chain_growth,C=CCCl,*CC(*)CCl,C3H5Cl,C3H5Cl,76.52,76.52,Liquid,0.94,46.4,0.1,allyl_chloride.jpg,user,structure: Allyl monomers polymerize poorly by free radicals (degradative chain transfer)
+allyl_methacrylate,Allyl Methacrylate,,chain_growth,C=C(C)C(=O)OCC=C,*CC(C)(*)C(=O)OCC=C,C7H10O2,C7H10O2,126.16,126.16,Liquid,0.98,88,0.25,allyl_methacrylate.jpg,user,structure: Bifunctional; repeat unit assumes only the methacrylate group reacts (pendant allyl)
+diallyl_phthalate,Diallyl Phthalate,,chain_growth,C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C,,C14H14O4,C14H14O4,246.26,246.26,Liquid,1.18,240,0.3,dap.jpg,user,structure: Crosslinker / network former: no single repeat unit
+divinylbenzene,Divinylbenzene,DVB,chain_growth,C=CC1=CC=C(C=C)C=C1,,C10H10,C10H10,130.19,130.19,Liquid,0.92,195,0.6,dvb.jpg,user,structure: Crosslinker / network former: no single repeat unit; para isomer drawn
+diallyl_maleate,Diallyl Maleate,,chain_growth,C=CCOC(=O)C=CC(=O)OCC=C,,C10H10O4,C10H12O4,194.18,196.2,Liquid,1.12,287,0.4,diallyl_maleate.jpg,user,"listed formula/MW (C10H10O4, 194.18) do not match structure (C10H12O4, 196.2) | structure: Crosslinker / network former: no single repeat unit"
+vinyl_toluene,Vinyl Toluene,,chain_growth,C=CC1=CC=CC(C)=C1,*CC(*)C1=CC=CC(C)=C1,C9H10,C9H10,118.18,118.18,Liquid,0.88,170,0.5,vinyl_toluene.jpg,user,structure: meta isomer drawn; commercial vinyl toluene is a meta/para mixture
+vinyl_pyridine,Vinyl Pyridine,,chain_growth,C=CC1=CC=CC=N1,*CC(*)C1=CC=CC=N1,C7H7N,C7H7N,105.14,105.14,Liquid,0.99,144,0.4,vinyl_pyridine.jpg,user,structure: 2-vinylpyridine drawn; isomer not specified in source
+n_vinyl_caprolactam,N-Vinyl Caprolactam,,chain_growth,C=CN1CCCCCC1=O,*CC(*)N1CCCCCC1=O,C10H15NO,C8H13NO,165.23,139.2,Solid,1.12,112,0.6,nvc.jpg,user,"listed formula/MW (C10H15NO, 165.23) do not match structure (C8H13NO, 139.2)"
+methacryloxypropyltrimethoxysilane,Methacryloxypropyltrimethoxysilane,MPS,chain_growth,C=C(C)C(=O)OCCC[Si](OC)(OC)OC,*CC(C)(*)C(=O)OCCC[Si](OC)(OC)OC,C10H20O5Si,C10H20O5Si,248.36,248.35,Liquid,1.04,190,0.2,mps.jpg,user,
+benzyl_methacrylate,Benzyl Methacrylate,,chain_growth,C=C(C)C(=O)OCC1=CC=CC=C1,*CC(C)(*)C(=O)OCC1=CC=CC=C1,C11H12O2,C11H12O2,176.21,176.22,Liquid,1.02,162,0.35,benzyl_methacrylate.jpg,user,
+vinyl_ether,Vinyl Ether,,chain_growth,C=COCC,*CC(*)OCC,C4H8O,C4H8O,72.11,72.11,Gas,0.75,35,0.6,vinyl_ether.jpg,user,state is Gas but boiling point is 35 C | name is ambiguous (ethyl vinyl ether vs divinyl ether) | structure: Name is ambiguous; structure drawn as ethyl vinyl ether because it matches the listed formula and MW
+isodecyl_acrylate,Isodecyl Acrylate,,chain_growth,C=CC(=O)OCCCCCCCC(C)C,*CC(*)C(=O)OCCCCCCCC(C)C,C13H24O2,C13H24O2,212.33,212.33,Liquid,0.86,250,0.22,isodecyl_acrylate.jpg,user,structure: Isodecyl is a branched-isomer mixture; 8-methylnonyl drawn
+perfluoroalkyl_acrylate,Perfluoroalkyl Acrylate,,chain_growth,,,C9H7F17O2,,482.13,,Liquid,1.9,200,0.45,perfluoro_acrylate.jpg,user,no structure assigned | structure: Generic name: chain length not specified so no structure assigned
+cyclohexyl_methacrylate,Cyclohexyl Methacrylate,,chain_growth,C=C(C)C(=O)OC1CCCCC1,*CC(C)(*)C(=O)OC1CCCCC1,C10H16O2,C10H16O2,168.24,168.24,Liquid,0.98,223,0.42,chma.jpg,user,
+dodecyl_methacrylate,Dodecyl Methacrylate,,chain_growth,C=C(C)C(=O)OCCCCCCCCCCCC,*CC(C)(*)C(=O)OCCCCCCCCCCCC,C16H30O2,C16H30O2,270.41,254.41,Liquid,0.86,285,0.28,dma.jpg,user,"listed formula/MW (C16H30O2, 270.41) do not match structure (C16H30O2, 254.41)"
+trifluoroethyl_methacrylate,"2,2,2-Trifluoroethyl Methacrylate",,chain_growth,C=C(C)C(=O)OCC(F)(F)F,*CC(C)(*)C(=O)OCC(F)(F)F,C6H7F3O2,C6H7F3O2,168.12,168.11,Liquid,1.3,168,0.52,tfema.jpg,user,
+vinylidene_fluoride,Vinylidene Fluoride,,chain_growth,C=C(F)F,*CC(F)(F)*,,C2H2F2,,64.03,,,,,,stub_from_structure,Added because the copolymer table references it; not in the original monomer table
+n_n_dimethylacrylamide,"N,N-Dimethylacrylamide",,chain_growth,C=CC(=O)N(C)C,*CC(*)C(=O)N(C)C,,C5H9NO,,99.13,,,,,,stub_from_structure,Added because the homopolymer table references it; not in the original monomer table
