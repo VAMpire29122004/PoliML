@@ -1,0 +1,4 @@
+pandas
+numpy
+matplotlib
+rdkit   # optional here; used automatically for formula/MW checks when installed
