@@ -1,0 +1,26 @@
+pair_id,monomer_1_id,monomer_2_id,r1,r2,temperature_c,medium,method,source,verified,notes
+styrene__acrylonitrile,styrene,acrylonitrile,,,,,,,False,needed for san
+acrylonitrile__butadiene,acrylonitrile,butadiene,,,,,,,False,needed for abs
+styrene__butadiene,styrene,butadiene,,,,,,,False,needed for sbr
+vinyl_acetate__ethylene,vinyl_acetate,ethylene,,,,,,,False,needed for eva
+vinyl_chloride__vinyl_acetate,vinyl_chloride,vinyl_acetate,,,,,,,False,needed for pvc_co_va
+ethylene__propylene,ethylene,propylene,,,,,,,False,needed for epm
+ethylene__tetrafluoroethylene,ethylene,tetrafluoroethylene,,,,,,,False,needed for etfe
+chloroprene__isoprene,chloroprene,isoprene,,,,,,,False,needed for poly_chloroprene_co_isoprene
+acrylonitrile__methyl_acrylate,acrylonitrile,methyl_acrylate,,,,,,,False,needed for pan_co_ma
+n_vinylpyrrolidone__methyl_methacrylate,n_vinylpyrrolidone,methyl_methacrylate,,,,,,,False,needed for pvp_co_mma
+ethyl_acrylate__methyl_acrylate,ethyl_acrylate,methyl_acrylate,,,,,,,False,needed for pea_co_ma
+butadiene__isoprene,butadiene,isoprene,,,,,,,False,needed for pbd_co_ip
+styrene__methyl_methacrylate,styrene,methyl_methacrylate,,,,,,,False,needed for ps_co_mma
+vinylidene_chloride__vinyl_chloride,vinylidene_chloride,vinyl_chloride,,,,,,,False,needed for pvdc_co_pvc
+acrylonitrile__butyl_acrylate,acrylonitrile,butyl_acrylate,,,,,,,False,needed for pan_co_ba
+methyl_methacrylate__butyl_acrylate,methyl_methacrylate,butyl_acrylate,,,,,,,False,needed for pmma_co_ba
+ethylene__butyl_acrylate,ethylene,butyl_acrylate,,,,,,,False,needed for pe_co_ba
+vinyl_acetate__butyl_acrylate,vinyl_acetate,butyl_acrylate,,,,,,,False,needed for pvac_co_ba
+methyl_vinyl_ketone__butyl_acrylate,methyl_vinyl_ketone,butyl_acrylate,,,,,,,False,needed for pmvk_co_ba
+n_isopropylacrylamide__methyl_acrylate,n_isopropylacrylamide,methyl_acrylate,,,,,,,False,needed for pnipaam_co_ma
+vinylidene_fluoride__trifluoroethylene,vinylidene_fluoride,trifluoroethylene,,,,,,,False,needed for pvdf_co_trfe
+2_ethylhexyl_acrylate__methyl_acrylate,2_ethylhexyl_acrylate,methyl_acrylate,,,,,,,False,needed for peha_co_ma
+styrene__vinyl_toluene,styrene,vinyl_toluene,,,,,,,False,needed for ps_co_vt
+trifluoroethyl_methacrylate__methyl_methacrylate,trifluoroethyl_methacrylate,methyl_methacrylate,,,,,,,False,needed for ptfema_co_mma
+styrene__trifluoroethyl_methacrylate,styrene,trifluoroethyl_methacrylate,,,,,,,False,needed for ps_co_ptfema

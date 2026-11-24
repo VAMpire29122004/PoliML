@@ -3,6 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 .pytest_cache/
+*.egg-info/
 data/external/
 .DS_Store
 .streamlit/secrets.toml

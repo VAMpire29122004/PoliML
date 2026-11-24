@@ -31,3 +31,12 @@ Raw files are never edited. Suspicious values are kept as given and described in
 - PNIPAAm Tg of 32 C matches its LCST, not its glass transition. PDMAEMA Tg may be high. Verify both.
 - Polymers listed as amorphous but given a Tm (PMMA, PC, PU, PI, PAI, PBI, PSU, PEC, polyarylates).
 - Several "step-growth monomers" are chain-growth or ring-opening monomers, or a solvent (1,4-dioxane).
+
+## reactivity_ratios.csv
+Pairwise terminal-model reactivity ratios. One row per comonomer pair, pre-filled from `copolymers_chain_growth.csv`.
+- `r1` belongs to `monomer_1_id` (r1 = k11/k12) and `r2` to `monomer_2_id` (r2 = k22/k21); swapping the order swaps the values.
+- Fill `temperature_c`, `medium` (bulk / solvent), `method` (e.g. Fineman-Ross, Kelen-Tudos, nonlinear least squares),
+  and `source` (full citation or DOI). Values without a source fail `scripts/check_reactivity_ratios.py`.
+- `verified` is `True` only after the value has been checked against the cited source.
+- Reported r values vary with temperature, medium and fitting method; keep one row per (pair, condition, source) if needed
+  and make `pair_id` unique (e.g. append `__60C_bulk`).
